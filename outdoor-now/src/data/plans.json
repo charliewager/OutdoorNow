@@ -1,0 +1,16 @@
+[
+  {
+    "username": "testAdminUser123",
+    "streetAddress": "123 anyStreet, province, Canada ",
+    "startDate": "2023-04-15T10:20:00Z",
+    "endDate": "2023-04-16T12:30:00Z",
+    "activity": "hiking"
+  },
+  {
+    "username": "testAdminUser123",
+    "streetAddress": "Mount Work - Hartland",
+    "startDate": "2023-04-15T12:30:00Z",
+    "endDate": "2023-04-15T16:30:00Z",
+    "activity": "biking"
+  }
+]
